@@ -1,0 +1,5 @@
+Computer ID: web.SRCserver-hyperv
+Computer Password (if needed): @general_src_passcode
+Computer TSVC ID: A.d3c.W829.K389.M83922.s8392.32912_computer
+Computer TSVC SSC: 2A_2IAS
+TSVC Download: tsvc.glitch.me (AdGuard Scan: 100% Legit)
